@@ -12,3 +12,4 @@ def guess(x):
     print(f"yay! you entered right number i.e {mine_num}")
 
 guess(10)
+#i am adding some comments to see what happpens
